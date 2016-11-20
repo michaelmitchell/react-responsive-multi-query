@@ -1,7 +1,7 @@
 [![github tag](https://img.shields.io/github/tag/michaelmitchell/react-responsive-multi-query.svg?maxAge=2592000)]()
 [![npm version](https://badge.fury.io/js/react-responsive-multi-query.svg)](https://badge.fury.io/js/react-responsive-multi-query)
 [![npm license](https://img.shields.io/npm/l/react-responsive-multi-query.svg?maxAge=2592000)]()
-[![known vulnerabilities](https://snyk.io/test/npm/react-responsive-multi-query/badge.svg)](https://snyk.io/test/npm/react-responsive-multi-query)
+[![Known Vulnerabilities](https://snyk.io/test/npm/react-responsive-multi-query/badge.svg)](https://snyk.io/test/npm/react-responsive-multi-query)
 
 # react-responsive-multi-query
 
