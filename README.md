@@ -6,6 +6,7 @@
 # react-responsive-multi-query
 
 Simple higher order component that wraps components in [react-responsive](https://github.com/contra/react-responsive) media query components.
+
 ## Installation
 
 ```sh

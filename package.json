@@ -1,7 +1,7 @@
 {
   "name": "react-responsive-multi-query",
-  "version": "0.1.1",
-  "description": "",
+  "version": "0.1.2",
+  "description": "Simple higher order component that wraps components in react-responsive media query components.",
   "homepage": "https://github.com/michaelmitchell/react-responsive-multi-query",
   "repository": {
     "type": "git",
@@ -10,7 +10,7 @@
   "bugs": {
     "url": "https://github.com/michaelmitchell/react-responsive-multi-query/issues"
   },
-  "license": "UNLICENSED",
+  "license": "MIT",
   "keywords": [
     "autom.io"
   ],
