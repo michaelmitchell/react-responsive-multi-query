@@ -9,7 +9,7 @@ Simple higher order component that wraps components in [react-responsive](https:
 ## Installation
 
 ```sh
-$ npm install babel-plugin-pipe-composition --save
+$ npm install react-responsive-multi-query --save
 ```
 
 ## Example using [react-responsive](https://github.com/contra/react-responsive)
