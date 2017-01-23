@@ -16,7 +16,7 @@ export default (props) => {
       : v.query;
 
     return (
-      <MediaQuery key={k} {...queryProps}>
+      <MediaQuery key={k} {...queryProps} {...moreProps}>
         {
           typeof children === 'function'
             ? children(v.props)
